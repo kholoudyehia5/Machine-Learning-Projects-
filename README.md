@@ -4,6 +4,6 @@ Hi there! I'm Kholoud Yehia, a Machine Learning Engineer and Bioinformatics grad
 
 Feel free to explore, and if you have any questions or would like to collaborate, don’t hesitate to reach out!
 
-# Connect with me 🔗
+## Connect with me 🔗
 - [LinkedIn](https://www.linkedin.com/in/kholoud-yehia5)
 - [Email](kholoudyehia3@gmail.com)
