@@ -1,7 +1,7 @@
 # Telecom Customer Churn
 
 ### Introduction
-This report outlines the final project after a long and insightful journey with DEPI , focusing on Data Exploration, Preprocessing, Insights, and where I applied various data science techniques to understand and predict customer behavior.
+This report outlines the final project after a long and insightful journey, focusing on Data Exploration, Preprocessing, Insights, and where I applied various data science techniques to understand and predict customer behavior.
 
 ### Objective 
 This project focuses on analyzing customer behavior in the telecom industry to predict churn and identify meaningful customer segments. This analysis will empower telecom businesses to improve customer retention and tailor services to different customer segments.
